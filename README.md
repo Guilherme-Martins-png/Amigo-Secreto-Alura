@@ -29,6 +29,8 @@ O sistema escolherá um nome aleatoriamente e exibirá o resultado na tela.
 
 O botão de reniciar irá resetar todo o site, então fique a vontade para jogar novamente.
 
+Para jogar basta entrar neste link:
+https://amigo-secreto-alura-phi.vercel.app/
 
 ![amigos secreto1](https://github.com/user-attachments/assets/89881370-a3eb-460b-9848-acfa9572d39e)
 ![amigos secreto2](https://github.com/user-attachments/assets/471c9b48-0199-4c53-8db1-6bae64542b34)
