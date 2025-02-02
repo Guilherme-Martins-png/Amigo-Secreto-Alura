@@ -53,3 +53,25 @@ function sortearAmigo() {
     // Exibe o nome sorteado na tela
     resultadoElemento.innerHTML = `Seu amigo secreto é:<li>${amigoSorteado}</li>`;
 }
+
+
+    function reiniciarLista() {
+        let listaAmigos = document.getElementById("listaAmigos");
+        let resultado = document.getElementById("resultado");
+        let BarraDeTexto = document.querySelector('#amigo');
+    
+        if (listaAmigos) {
+            listaAmigos.innerHTML = ""; // Remove todos os amigos da lista
+        }
+    
+        if (resultado) {
+            resultado.innerHTML = ""; // Limpa o campo de resultado
+        }
+    
+        if (BarraDeTexto) {
+            BarraDeTexto.value = ""; // Limpa o campo de entrada
+        }
+    
+        amigos = []; // Limpa o array de amigos
+        console.log("Lista e resultado resetados.");
+    }
