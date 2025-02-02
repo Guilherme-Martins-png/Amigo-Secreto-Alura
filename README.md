@@ -37,6 +37,9 @@ https://amigo-secreto-alura-phi.vercel.app/
 ![Amigos secreto3](https://github.com/user-attachments/assets/34c1f2a8-e52c-4644-b0e0-72e67cbee8c6)
 
 
+As linguagens usadas nesse projeto foram:
+HTML & CSS (ALURA)
+JAVASCRIPT (GUILHERME MARTINS)
 
 
 Autor do Projeto:
