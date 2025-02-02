@@ -36,7 +36,9 @@ O sistema escolherá um nome aleatoriamente e exibirá o resultado na tela.
 
 
 Autor do Projeto:
+
 Projeto ONE
+
 Guilherme Martins (Guilherme.rfmartins@gmail.com)
 
 
