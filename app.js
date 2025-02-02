@@ -70,8 +70,12 @@ function sortearAmigo() {
     
         if (BarraDeTexto) {
             BarraDeTexto.value = ""; // Limpa o campo de entrada
-        }
+        } 
     
         amigos = []; // Limpa o array de amigos
-        console.log("Lista e resultado resetados.");
-    }
+        alert("Lista e resultado resetados."); 
+    
+    
+    } 
+
+
