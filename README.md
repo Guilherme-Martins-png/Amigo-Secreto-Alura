@@ -1,8 +1,8 @@
-Challender Amigo Secreto
+Challenger Amigo Secreto
 
 Introdução
 
-Challender Amigo Secreto é um desafio para a conclusão da fase de seleção do projeto ONE (Oracle Next Education) da ORACLE + ALURA.
+Challenger Amigo Secreto é um desafio para a conclusão da fase de seleção do projeto ONE (Oracle Next Education) da ORACLE + ALURA.
 Os candidatos receberam os arquivos WEB (HTML e CSS) prontos e tiveram que desenvolver todas as funcionalidades em JavaScript do zero.
 
 Funcionalidades
@@ -26,6 +26,8 @@ Clique no botão "Adicionar" para incluir os nomes na lista.
 Após adicionar todos os amigos, clique no botão "Sortear".
 
 O sistema escolherá um nome aleatoriamente e exibirá o resultado na tela.
+
+O botão de reniciar irá resetar todo o site, então fique a vontade para jogar novamente.
 
 
 ![amigos secreto1](https://github.com/user-attachments/assets/89881370-a3eb-460b-9848-acfa9572d39e)
