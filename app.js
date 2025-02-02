@@ -26,6 +26,7 @@ function listaDeAmigos() {
     }
     
     lista.innerHTML = ""; // Limpa a lista antes de atualizar
+    amigos.sort();  // filtrar e organizar nome por ordem alfabetica
 
     for (let i = 0; i < amigos.length; i++) {
         let li = document.createElement("li"); // Cria um novo <li>
